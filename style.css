@@ -1,0 +1,49 @@
+/* 12100e */
+/* 30321C */
+/* 4A4B2F */
+/* 6B654B */
+/* D4DF9E */
+
+body {
+   background-color:#D4DF9E ;
+   font-family: Arial, sans-serif;
+   line-height: 1.6;
+   margin: 0;
+   padding: 0;
+}
+
+nav{
+    background-color: #725f0b;
+    height: 2.5rem;
+}
+
+img{
+    margin: 2rem 0rem 0rem 2rem;
+    width: 40rem ;
+    height: 35rem ;
+    border-radius: 100% ;
+    box-shadow: 0 0 20px 10px rgb(0,0,0,0.2);
+       
+
+}
+
+image:hover a{
+
+    img{
+        margin: 2rem 0rem 0rem 2rem;
+        width: 40rem ;
+        height: 35rem ;
+        border-radius: 100% ;
+        box-shadow: 0 0 20px 10px rgb(0,0,0,0.2);
+}
+.image-container{
+    text-align: center;   
+
+}
+
+#logo{
+    color:white;
+    /* margin: 4rem 4rem 4rem 4rem */
+    padding: 0.5rem 1.5rem 0rem 1.5rem; 
+    
+}
