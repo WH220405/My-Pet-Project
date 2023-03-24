@@ -19,8 +19,8 @@ nav{
 
 img{
     margin: 2rem 0rem 0rem 2rem;
-    width: 40rem ;
-    height: 35rem ;
+    width: 30rem ;
+    height: 25rem ;
     border-radius: 100% ;
     box-shadow: 0 0 20px 10px rgb(0,0,0,0.2);
        
@@ -29,13 +29,14 @@ img{
 
 image:hover a{
 
-    img{
+    img
         margin: 2rem 0rem 0rem 2rem;
         width: 40rem ;
         height: 35rem ;
         border-radius: 100% ;
         box-shadow: 0 0 20px 10px rgb(0,0,0,0.2);
 }
+
 .image-container{
     text-align: center;   
 
